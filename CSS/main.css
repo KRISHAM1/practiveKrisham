@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+}
+
+.container{
+    max-width: 100%;
+    
+    margin: 1px 0;
+    padding: 1px 0;
+
+}
+.headings{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 1px;
+    margin-bottom: 0;
+
+}
+.logo{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 9px;
+}
+.BAK-ONE{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.template-name{
+    margin-bottom: 30px;
+    font-size: 13px;
+    margin-left: 20px;
+
+}
+.tabs{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 8px;
+    margin-left:400px;
+    
+}
+.tabs h1{
+    font-weight: 400;
+}
+.home{
+   margin: 0 1px 1px 0;
+   position: relative;
+    text-align: center;
+    color: white;
+
+
+   
+}
+.home img{
+
+    width: 100%;
+    height: 600px;
+    
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+}
+.centered.p.span{
+font-weight: 500;
+
+}
+.body{
+    font-size: 20px;
+    font-weight: 200;
+}
+.learn{
+    font-size: 10px;
+    
+    margin: 50px 40% 20px 40%;
+    background-color: rgb(20, 165, 69);
+    
+}
+.learn h1{
+    font-weight: 50;
+}
+.porfolio{
+    margin: 50px auto;
+    text-align: center;
+
+}
+.options{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 8px;
+    margin: 30px 32% 30px 32%;
+   
+}
+.options h1{
+    font-weight: 400;
+    color: white;
+    
+}
+.all{
+    background-color:  rgb(20, 165, 69);
+    padding: 2px;
+ 
+}
+.webD{
+
+    background-color:  rgb(20, 165, 69);
+    padding: 2px;
+}
+
+.GraphicD{
+    background-color:  rgb(20, 165, 69);
+    padding: 2px;
+
+}
+
+.FlatD{
+    background-color:  rgb(20, 165, 69);
+    padding: 2px;
+
+}
+.iconOne img {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.iconTwo img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+
+
+}
+.about{
+    margin: 20px 0 20px 0;
+    background-color: rgb(20, 165, 69);
+    text-align: center;
+    color: white;
+}
+.embed{
+    margin: 20px 0 20px 180px;
+    display: flex;
+    
+  
+}
+
+.embedXR{
+    margin: 20px 0 20px 180px;
+    display: flex;
+    
+    
+}
+.ku-embed{
+    width: 560px;
+    height: 315px;
+}
+.extend{
+    margin-left: 40px;
+    width: 560px;
+    height: 315px;
+}
